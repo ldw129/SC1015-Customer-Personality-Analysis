@@ -1,7 +1,9 @@
 # SC1015 Customer Personality Analysis
 
 ## About
-This is a Mini-Project for the course SC1015 (Introduction to Data Science and Artificial Intelligence). The dataset used in this project is extracted from [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) on Kaggle. 
+<div align="justify">
+    
+This is a Mini-Project for the course **SC1015 (Introduction to Data Science and Artificial Intelligence)**. The dataset used in this project is extracted from [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) on Kaggle. 
 
 The source code, in order, are as follows:
 1. [Data Exploration](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-exploratory.ipynb)
@@ -10,6 +12,8 @@ The source code, in order, are as follows:
 4. [Data Splitting](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-encoding-and-splitting.ipynb)
 5. [Linear Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Linear_Regression.ipynb)
 6. [Poisson Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Poisson_Regression.ipynb)
+
+</div>
 
 ## Contributors
 - __Lim Boon Hian__ - Data Exploration, Data Cleaning, Data Visualization
