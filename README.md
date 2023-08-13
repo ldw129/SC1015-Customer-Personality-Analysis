@@ -1,7 +1,7 @@
-# SC1015-Group9
+# SC1015 Customer Personality Analysis
 
-### About: 
-This is a Mini-Project for the course SC1015 (Introduction to Data Science and Artificial Intelligence). The dataset used in this project is extracted from [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). 
+## About
+This is a Mini-Project for the course SC1015 (Introduction to Data Science and Artificial Intelligence). The dataset used in this project is extracted from [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) on Kaggle. 
 
 The source code, in order, are as follows:
 1. [Data Exploration](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-exploratory.ipynb)
@@ -11,15 +11,15 @@ The source code, in order, are as follows:
 5. [Linear Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Linear_Regression.ipynb)
 6. [Poisson Regression](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Poisson_Regression.ipynb)
 
-### Contributors:
+## Contributors
 - __Lim Boon Hian__ - Data Exploration, Data Cleaning, Data Visualization
 - __Lim Dong Wan__ - Linear Regression, Data Splitting
 - __Marvell Ung Wew__ - Poisson Regression, Grid Search Cross Validation
 
-### Problem Definition
+## Problem Definition
 Predicting customer sales using customer information
 
-### Variables in Focus
+## Variables in Focus
 __Response variables:__ TotalPurchase, MntGroceryProducts, MntWines, MntGoldProds
 
 __Predictor variables:__
@@ -33,11 +33,11 @@ __Predictor variables:__
     - TotalChild
     - NumWebVisitsMonth
 
-### Machine Learning Models Used
+## Machine Learning Models Used
 1. Linear Regression
 2. Poisson Regression
 
-### Insights and Recommendation
+## Insights and Recommendations
 Main insight: The company utilizes customer-focused sales tactics with customer’s income as a guideline.
 
 Recommendations:
@@ -48,12 +48,12 @@ Recommendations:
     - born in 1940 - 1950
 2. Improve online sales by upgrading company website, so as to make it more attractive and appealing to customers.
 
-### Conclusion
+## Conclusion
 1. __Customer income__ serves as the most important predictor to predict customer expenditure
 2. *Linear Regression* yield __better__ results than *Poisson Regression*
 3. GridSearch CV only __marginally__ improved the Linear Regression model
 
-### Things Learnt
+## Things Learnt
 1. K-fold splitting
 2. Poisson Regression
 3. Plotly subplot
@@ -62,7 +62,7 @@ Recommendations:
 6. Get dummy values for categorical variables in Linear Regression
 7. Collaborating on Github :)
 
-### References
+## References
 - <https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis> (Original Dataset)
 - <https://ntulearn.ntu.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_2606895_1&content_id=_2762960_1>
 - <https://stackoverflow.com/questions/21912634/how-can-i-sort-a-boxplot-in-pandas-by-the-median-values>
