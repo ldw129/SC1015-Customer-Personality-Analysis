@@ -2,10 +2,16 @@
 
 ## About
 <div align="justify">
+<p>
     
-This is a Mini-Project for the course **SC1015 (Introduction to Data Science and Artificial Intelligence)**. The dataset used in this project is extracted from [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) on Kaggle. 
+This is a Mini-Project for the course **SC1015 Introduction to Data Science and Artificial Intelligence** conducted by Nanyang Technological University's College of Computing and Data Science. 
+</p>
+<p>
+    
+The dataset used in this project is extracted from [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) on Kaggle. 
+</p>
 
-The source code, in order, are as follows:
+The source codes, in order, are as follows:
 1. [Data Exploration](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-exploratory.ipynb)
 2. [Data Cleaning](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-cleaning.ipynb)
 3. [Data Visualization](https://github.com/BoonHianLim/SC1015-Group9/blob/main/Data-visualization.ipynb)
